@@ -28,5 +28,9 @@ public class RandomNumbers {
         int min = Collections.min(numbers);
         int max = Collections.max(numbers);
         System.out.println("Min: " + min + ", Max: " + max);
+        int age =21;
+        System.ot.println(age);
+
+        int age2 = 22;
     }
 }
